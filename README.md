@@ -2,7 +2,7 @@
 
 One rule, "never commit on the main branch", in three `CLAUDE.md` files: one line on its own, the middle of a 601-line file, and the same 601-line file plus one line that says to skip process steps when the user is in a hurry. Then the same rushed request, ten runs each, counting how often the commit stayed off `main`.
 
-Video walkthrough: (link added after upload)
+Video walkthrough: https://youtu.be/UNorZq7rgrA (public from 2026-11-25)
 
 ## Results
 
